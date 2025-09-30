@@ -192,8 +192,8 @@ function App() {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center gap-3">
               <img 
-                src="AHP_2025/public/Kenya-National-Reit-Logo (1).png" 
-                alt="Kenya National Reit" 
+                src="/Kenya-National-Reit-Logo (1).png" 
+                alt="Kenya National Reit Logo" 
                 className="w-12 h-12 object-contain"
               />
               <div>
