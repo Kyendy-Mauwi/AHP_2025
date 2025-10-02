@@ -119,6 +119,7 @@ Meru,Meru,Boma Yangu Meru 2 Estate,Ongoing,,2 Bedroom Unit Affordable,Available,
 Meru,Meru,Boma Yangu Meru 2 Estate,Ongoing,,3 Bedroom Unit Affordable,Available,"KES 3,000,000.00","KES 22,600.00"
 Meru,Meru,Boma Yangu Meru 2 Estate,Ongoing,,2 Bedroom Unit Market,Available,"KES 3,600,000.00","KES 33,200.00"
 Meru,Meru,Boma Yangu Meru 2 Estate,Ongoing,,3 Bedroom Unit Market,Available,"KES 4,800,000.00","KES 44,300.00"
+
 Meru,Meru,Boma Yangu Meru 1 Estate,Ongoing,100,Studio Unit Affordable,Available,"KES 1,000,000.00","KES 7,600.00"
 Meru,Meru,Boma Yangu Meru 1 Estate,Ongoing,,1 Room Social,Available,"KES 640,000.00","KES 3,800.00"
 Meru,Meru,Boma Yangu Meru 1 Estate,Ongoing,,3 Room Social,Available,"KES 1,280,000.00","KES 6,800.00"
@@ -126,6 +127,7 @@ Meru,Meru,Boma Yangu Meru 1 Estate,Ongoing,,2 Bedroom Unit Affordable,Available,
 Meru,Meru,Boma Yangu Meru 1 Estate,Ongoing,,3 Bedroom Unit Affordable,Available,"KES 3,000,000.00","KES 22,600.00"
 Meru,Meru,Boma Yangu Meru 1 Estate,Ongoing,,2 Bedroom Unit Market,Available,"KES 3,600,000.00","KES 33,200.00"
 Meru,Meru,Boma Yangu Meru 1 Estate,Ongoing,,3 Bedroom Unit ,Available,"KES 4,800,000.00","KES 44,300.00"
+
 Meru,Timau,Boma Yangu Timau Estate,Ongoing,279,Studio Unit Affordable,Available,"KES 1,000,000.00","KES 7,600.00"
 Meru,Timau,Boma Yangu Timau Estate,Ongoing,,1 Room Social,Available,"KES 640,000.00","KES 3,800.00"
 Meru,Timau,Boma Yangu Timau Estate,Ongoing,,2 Room Social,Available,"KES 960,000.00","KES 5,200.00"
@@ -154,7 +156,7 @@ Taita Taveta,Voi,Boma Yangu Voi Pool Estate,Ongoing,,3 Bedroom Unit Affordable,A
 Taita Taveta,Voi,Boma Yangu Voi Pool Estate,Ongoing,,2 Bedroom Unit Market,Available,"KES 3,600,000.00","KES 31,750.00"
 Taita Taveta,Voi,Boma Yangu Voi Pool Estate,Ongoing,,3 Bedroom Unit Market,Available,"KES 4,800,000.00","KES 42,320.00"
 
-Nairobi,Nairobi,Boma Yangu Kibra Lot 3 Estate,Ongoing,"2,332",Studio Unit,Available,"KES 1,000,000.00","KES 7,250.00"
+Nairobi,Nairobi,Boma Yangu Kibra Lot 3 Estate,Ongoing,2332,Studio Unit,Available,"KES 1,000,000.00","KES 7,250.00"
 Nairobi,Nairobi,Boma Yangu Kibra Lot 3 Estate,Ongoing,,1 Room Social,Available,"KES 640,000.00","KES 3,900.00"
 Nairobi,Nairobi,Boma Yangu Kibra Lot 3 Estate,Ongoing,,2 Room Social,Available,"KES 960,000.00","KES 5,350.00"
 Nairobi,Nairobi,Boma Yangu Kibra Lot 3 Estate,Ongoing,,3 Room Social,Available,"KES 1,280,000.00","KES 6,800.00"
@@ -162,33 +164,40 @@ Nairobi,Nairobi,Boma Yangu Kibra Lot 3 Estate,Ongoing,,2 Bedroom Unit Affordable
 Nairobi,Nairobi,Boma Yangu Shauri Moyo A Estate,Ongoing,,1 Bedroom Unit,Available,"KES 2,003,500.00","KES 14,470.00"
 Nairobi,Nairobi,Boma Yangu Shauri Moyo A Estate,Ongoing,,2 Bedroom Unit,Available,"KES 2,764,500.00","KES 19,950.00"
 Nairobi,Nairobi,Boma Yangu Shauri Moyo A Estate,Ongoing,,3 Bedroom Unit,Available,"KES 3,598,000.00","KES 26,000.00"
+
 Nairobi,Shauri Moyo,Boma Yangu Shauri Moyo B Estate,Ongoing,,Studio Unit Affordable,Available,"KES 1,045,000.00","KES 5,700.00"
 Nairobi,Shauri Moyo,Boma Yangu Shauri Moyo B Estate,Ongoing,,1 Bedroom Standard,Available,"KES 1,650,000.00","KES 9,000.00"
 Nairobi,Shauri Moyo,Boma Yangu Shauri Moyo B Estate,Ongoing,,2 Bedroom Standard,Available,"KES 2,255,000.00","KES 12,200.00"
 Nairobi,Shauri Moyo,Boma Yangu Shauri Moyo B Estate,Ongoing,,3 Bedroom Standard,Available,"KES 3,410,000.00","KES 24,700.00"
 Nairobi,Shauri Moyo,Boma Yangu Shauri Moyo B Estate,Ongoing,,2 Bedroom Type 2,Available,"KES 3,355,000.00","KES 24,300.00"
 Nairobi,Shauri Moyo,Boma Yangu Shauri Moyo B Estate,Ongoing,,3 Bedroom Type 3,Available,"KES 4,510,000.00","KES 32,700.00"
+
 Nairobi,Starehe Constituency,Boma Yangu Starehe Point 1 Estate,Ongoing,,1 Bedroom Unit Type 1,Available,"KES 1,650,000.00","KES 11,950.00"
 Nairobi,Starehe Constituency,Boma Yangu Starehe Point 1 Estate,Ongoing,,2 Bedroom Unit Type 1,Available,"KES 2,200,000.00","KES 15,900.00"
 Nairobi,Starehe Constituency,Boma Yangu Starehe Point 1 Estate,Ongoing,,3 Bedroom Unit Type 1,Available,"KES 3,300,000.00","KES 23,850.00"
 Nairobi,Starehe Constituency,Boma Yangu Starehe Point 1 Estate,Ongoing,,1 Bedroom Unit Type 2,Available,"KES 1,980,000.00","KES 17,450.00"
 Nairobi,Starehe Constituency,Boma Yangu Starehe Point 1 Estate,Ongoing,,2 Bedroom Unit Type 2,Available,"KES 3,465,000.00","KES 30,550.00"
 Nairobi,Starehe Constituency,Boma Yangu Starehe Point 1 Estate,Ongoing,,3 Bedroom Unit Type 2,Available,"KES 4,125,000.00",
+
 Nairobi,Nairobi,Boma Yangu Parkroad Estate,Completed,,1 Bedroom Unit,Sold Out,"KES 1,500,000.00",
 Nairobi,Nairobi,Boma Yangu Parkroad Estate,Completed,,2 Bedroom Unit,Sold Out,"KES 2,000,000.00",
 Nairobi,Nairobi,Boma Yangu Parkroad Estate,Completed,,3 Bedroom Unit,Sold Out,"KES 3,000,000.00",
-Nairobi,Kibera,Boma Yangu Kibera Soweto East Zone B Estate,Ongoing,"4,054",1 Room Social,Available,"KES 640,000.00","KES 3,900.00"
+
+Nairobi,Kibera,Boma Yangu Kibera Soweto East Zone B Estate,Ongoing,4054,1 Room Social,Available,"KES 640,000.00","KES 3,900.00"
 Nairobi,Kibera,Boma Yangu Kibera Soweto East Zone B Estate,Ongoing,,2 Room Social,Available,"KES 960,000.00","KES 5,350.00"
 Nairobi,Kibera,Boma Yangu Kibera Soweto East Zone B Estate,Ongoing,,3 Room Social,Available,"KES 1,280,000.00","KES 6,800.00"
+
 Nairobi,Athi River,Fairvalley Heights,Ongoing,,1 Bedroom Unit,Sold Out,"KES 2,150,000.00",
 Nairobi,Athi River,Fairvalley Heights,Ongoing,,2 Bedroom Unit,Sold Out,"KES 3,350,000.00",
 Nairobi,Athi River,Fairvalley Heights,Ongoing,,3 Bedroom Unit,Sold Out,"KES 4,250,000.00",
 Nairobi,Athi River,Fairvalley Heights,Ongoing,,4 Bedroom Villa,Sold Out,"KES 8,000,000.00",
-Nairobi,Pangani,Pangani Affordable Housing Project,Ongoing,"1,562",1 Bedroom Unit,Sold Out,"KES 1,000,000.00",
+
+Nairobi,Pangani,Pangani Affordable Housing Project,Ongoing,1562,1 Bedroom Unit,Sold Out,"KES 1,000,000.00",
 Nairobi,Pangani,Pangani Affordable Housing Project,Ongoing,,2 Bedroom Unit,Sold Out,"KES 2,500,000.00",
 Nairobi,Pangani,Pangani Affordable Housing Project,Ongoing,,3 Bedroom Unit,Sold Out,"KES 3,000,000.00",
 Nairobi,Pangani,Pangani Affordable Housing Project,Ongoing,,Duplex,Available,"KES 9,000,000.00",
-Nairobi,South B,Boma Yangu Mukuru Estate,Ongoing,"5,616",Studio (Bedsitter) Unit Social ,Available,"KES 640,000.00","KES 3,900.00"
+
+Nairobi,South B,Boma Yangu Mukuru Estate,Ongoing,5616,Studio (Bedsitter) Unit Social ,Available,"KES 640,000.00","KES 3,900.00"
 Nairobi,South B,Boma Yangu Mukuru Estate,Ongoing,,Studio Unit Affordable,Available,"KES 1,000,000.00","KES 7,600.00"
 Nairobi,South B,Boma Yangu Mukuru Estate,Ongoing,,1 Bedroom Unit Social,Available,"KES 960,000.00","KES 5,350.00"
 Nairobi,South B,Boma Yangu Mukuru Estate,Ongoing,,2 Bedroom Unit Social,Available,"KES 1,280,000.00","KES 6,800.00"
@@ -658,29 +667,31 @@ Trans Nzoia,	Kitale,	Boma Yangu Maili Tatu Estate,	Ongoing,,		3 Bedroom Unit Aff
 Trans Nzoia,	Kitale,	Boma Yangu Maili Tatu Estate,	Ongoing,,		2 Bedroom Unit Market,	Available,	"KES 3,600,000.00",	"KES 33,200.00"
 Trans Nzoia,	Kitale,	Boma Yangu Maili Tatu Estate,	Ongoing,,		3 Bedroom Unit Market,	Available,	"KES 4,800,000.00",	"KES 44,300.00"
 
-Migori	Mabera	Boma Yangu Mabera Estate (Phase 1)	Ongoing	60	1 Bedroom Unit Social	Available	KES 960,000.00	KES 5,350.00
-Migori	Mabera	Boma Yangu Mabera Estate (Phase 1)	Ongoing		2 Bedroom Unit Social	Available	KES 1,280,000.00	KES 6,800.00
-Migori	Mabera	Boma Yangu Mabera Estate (Phase 1)	Ongoing		1 Bedroom Unit Affordable	Available	KES 1,500,000.00	KES 10,850.00
-Migori	Mabera	Boma Yangu Mabera Estate (Phase 1)	Ongoing		2 Bedroom Unit Affordable	Available	KES 2,000,000.00	KES 14,450.00
-Migori	Mabera	Boma Yangu Mabera Estate (Phase 1)	Ongoing		3 Bedroom Unit Affordable	Available	KES 3,000,000.00	KES 21,680.00
-Migori	Mabera	Boma Yangu Mabera Estate (Phase 1)	Ongoing		2 Bedroom Unit Market	Available	KES 2,400,000.00	KES 21,160.00
-Migori	Mabera	Boma Yangu Mabera Estate (Phase 1)	Ongoing		3 Bedroom Unit Market	Available	KES 3,600,000.00	KES 31,750.00
-Migori	Kehancha Town	Boma Yangu Kehancha Estate	Ongoing	298	Studio Unit Affordable	Available	KES 1,000,000.00	KES 7,249.00
-Migori	Kehancha Town	Boma Yangu Kehancha Estate	Ongoing		1 Room Social	Available	KES 640,000.00	KES 3,900.00
-Migori	Kehancha Town	Boma Yangu Kehancha Estate	Ongoing		2 Room Social	Available	KES 960,000.00	KES 5,350.00
-Migori	Kehancha Town	Boma Yangu Kehancha Estate	Ongoing		3 Room Social	Available	KES 1,280,000.00	KES 6,800.00
-Migori	Kehancha Town	Boma Yangu Kehancha Estate	Ongoing		2 Bedroom Unit Affordable	Available	KES 2,000,000.00	KES 14,450.00
-Migori	Kehancha Town	Boma Yangu Kehancha Estate	Ongoing		3 Bedroom Unit Affordable	Available	KES 3,000,000.00	KES 21,680.00
-Migori	Kehancha Town	Boma Yangu Kehancha Estate	Ongoing		2 Bedroom Unit Market	Available	KES 3,600,000.00	KES 31,749.00
-Migori	Kehancha Town	Boma Yangu Kehancha Estate	Ongoing		3 Bedroom Unit Market	Available	KES 4,800,000.00	KES 42,320.00
-Migori	Rongo	Boma Yangu Rongo Estate	Ongoing		Studio Unit Social	Available	KES 640,000.00	KES 3,900.00
-Migori	Rongo	Boma Yangu Rongo Estate	Ongoing		1 Room Social	Available	KES 640,000.00	KES 3,900.00
-Migori	Rongo	Boma Yangu Rongo Estate	Ongoing		2 Room Social	Available	KES 960,000.00	KES 5,350.00
-Migori	Rongo	Boma Yangu Rongo Estate	Ongoing		3 Room Social	Available	KES 1,280,000.00	KES 6,800.00
-Migori	Rongo	Boma Yangu Rongo Estate	Ongoing		2 Bedroom Unit Affordable	Available	KES 2,000,000.00	KES 14,450.00
-Migori	Rongo	Boma Yangu Rongo Estate	Ongoing		3 Bedroom Unit Affordable	Available	KES 3,000,000.00	KES 21,685.00
-Migori	Rongo	Boma Yangu Rongo Estate	Ongoing		2 Bedroom Unit Market	Available	KES 3,600,000.00	KES 31,750.00
-Migori	Rongo	Boma Yangu Rongo Estate	Ongoing		3 Bedroom Unit Market	Available	KES 4,800,000.00	KES 42,320.00
+Migori,	Mabera,	Boma Yangu Mabera Estate (Phase 1),	Ongoing,	60,	1 Bedroom Unit Social,	Available,	"KES 960,000.00",	"KES 5,350.00"
+Migori,	Mabera,	Boma Yangu Mabera Estate (Phase 1),	Ongoing,,		2 Bedroom Unit Social,	Available,	"KES 1,280,000.00",	"KES 6,800.00"
+Migori,	Mabera,	Boma Yangu Mabera Estate (Phase 1),	Ongoing,,		1 Bedroom Unit Affordable,	Available,	"KES 1,500,000.00",	"KES 10,850.00"
+Migori,	Mabera,	Boma Yangu Mabera Estate (Phase 1),	Ongoing,,		2 Bedroom Unit Affordable,	Available,	"KES 2,000,000.00",	"KES 14,450.00"
+Migori,	Mabera,	Boma Yangu Mabera Estate (Phase 1),	Ongoing,,		3 Bedroom Unit Affordable,	Available,	"KES 3,000,000.00",	"KES 21,680.00"
+Migori,	Mabera,	Boma Yangu Mabera Estate (Phase 1),	Ongoing,,		2 Bedroom Unit Market,	Available,	"KES 2,400,000.00",	"KES 21,160.00"
+Migori,	Mabera,	Boma Yangu Mabera Estate (Phase 1),	Ongoing,,		3 Bedroom Unit Market,	Available,	"KES 3,600,000.00",	"KES 31,750.00"
+
+Migori,	Kehancha Town,	Boma Yangu Kehancha Estate,	Ongoing,	298,	Studio Unit Affordable,	Available,	"KES 1,000,000.00",	KES 7,249.00"
+Migori,	Kehancha Town,	Boma Yangu Kehancha Estate,	Ongoing,,		1 Room Social,	Available,	"KES 640,000.00",	KES 3,900.00"
+Migori,	Kehancha Town,	Boma Yangu Kehancha Estate,	Ongoing,,		2 Room Social,	Available,	"KES 960,000.00",	KES 5,350.00"
+Migori,	Kehancha Town,	Boma Yangu Kehancha Estate,	Ongoing,,		3 Room Social,	Available,	"KES 1,280,000.00",	KES 6,800.00"
+Migori,	Kehancha Town,	Boma Yangu Kehancha Estate,	Ongoing,,		2 Bedroom Unit Affordable,	Available,	"KES 2,000,000.00",	KES 14,450.00"
+Migori,	Kehancha Town,	Boma Yangu Kehancha Estate,	Ongoing,,		3 Bedroom Unit Affordable,	Available,	"KES 3,000,000.00",	KES 21,680.00"
+Migori,	Kehancha Town,	Boma Yangu Kehancha Estate,	Ongoing,,		2 Bedroom Unit Market,	Available,	"KES 3,600,000.00",	KES 31,749.00"
+Migori,	Kehancha Town,	Boma Yangu Kehancha Estate,	Ongoing,,		3 Bedroom Unit Market,	Available,	"KES 4,800,000.00",	KES 42,320.00"
+
+Migori,	Rongo,	Boma Yangu Rongo Estate,	Ongoing,,		Studio Unit Social,	Available,	"KES 640,000.00",	"KES 3,900.00"
+Migori,	Rongo,	Boma Yangu Rongo Estate,	Ongoing,,		1 Room Social,	Available,	"KES 640,000.00",	"KES 3,900.00"
+Migori,	Rongo,	Boma Yangu Rongo Estate,	Ongoing,,		2 Room Social,	Available,	"KES 960,000.00",	"KES 5,350.00"
+Migori,	Rongo,	Boma Yangu Rongo Estate,	Ongoing,,		3 Room Social,	Available,	"KES 1,280,000.00",	"KES 6,800.00"
+Migori,	Rongo,	Boma Yangu Rongo Estate,	Ongoing,,		2 Bedroom Unit Affordable,	Available,	"KES 2,000,000.00",	"KES 14,450.00"
+Migori,	Rongo,	Boma Yangu Rongo Estate,	Ongoing,,		3 Bedroom Unit Affordable,	Available,	"KES 3,000,000.00",	"KES 21,685.00"
+Migori,	Rongo,	Boma Yangu Rongo Estate,	Ongoing,,		2 Bedroom Unit Market,	Available,	"KES 3,600,000.00",	"KES 31,750.00"
+Migori,	Rongo,	Boma Yangu Rongo Estate,	Ongoing,,		3 Bedroom Unit Market,	Available,	"KES 4,800,000.00",	"KES 42,320.00"
 
 Machakos	Machakos Town	Boma Yangu Machakos Civil Servants Estate	Completed		2 Bedroom Unit Market	Sold Out	KES 3,960,000.00	
 Machakos	Machakos Town	Boma Yangu Machakos Civil Servants Estate	Completed		3 Bedroom Unit Market	Sold Out	KES 5,160,000.00	
