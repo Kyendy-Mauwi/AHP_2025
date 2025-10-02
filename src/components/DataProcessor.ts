@@ -693,32 +693,36 @@ Migori,	Rongo,	Boma Yangu Rongo Estate,	Ongoing,,		3 Bedroom Unit Affordable,	Av
 Migori,	Rongo,	Boma Yangu Rongo Estate,	Ongoing,,		2 Bedroom Unit Market,	Available,	"KES 3,600,000.00",	"KES 31,750.00"
 Migori,	Rongo,	Boma Yangu Rongo Estate,	Ongoing,,		3 Bedroom Unit Market,	Available,	"KES 4,800,000.00",	"KES 42,320.00"
 
-Machakos	Machakos Town	Boma Yangu Machakos Civil Servants Estate	Completed		2 Bedroom Unit Market	Sold Out	KES 3,960,000.00	
-Machakos	Machakos Town	Boma Yangu Machakos Civil Servants Estate	Completed		3 Bedroom Unit Market	Sold Out	KES 5,160,000.00	
-Machakos	Athi River Town	Moke Gardens Affordable Housing Development	Ongoing	4,000	Studio Unit	Available	KES 1,500,000.00	
-Machakos	Athi River Town	Moke Gardens Affordable Housing Development	Ongoing		1 Bedroom Unit	Available	KES 2,750,000.00	
-Machakos	Athi River Town	Moke Gardens Affordable Housing Development	Ongoing		2 Bedroom Unit	Available	KES 4,400,000.00	
-Machakos	Athi River Town	Moke Gardens Affordable Housing Development	Ongoing		3 Bedroom Unit	Available	KES 5,705,000.00	
-Machakos	Machakos Town	Boma Yangu Konza City Estate	Ongoing		Studio Unit Affordable	Available	KES 1,000,000.00	KES 7,249.00
-Machakos	Machakos Town	Boma Yangu Konza City Estate	Ongoing		1 Room Social	Available	KES 640,000.00	KES 3,900.00
-Machakos	Machakos Town	Boma Yangu Konza City Estate	Ongoing		2 Room Social	Available	KES 960,000.00	KES 5,350.00
-Machakos	Machakos Town	Boma Yangu Konza City Estate	Ongoing		3 Room Social	Available	KES 1,280,000.00	KES 6,800.00
-Machakos	Machakos Town	Boma Yangu Konza City Estate	Ongoing		2 Bedroom Unit Affordable	Available	KES 2,000,000.00	KES 14,450.00
-Machakos	Machakos Town	Boma Yangu Konza City Estate	Ongoing		3 Bedroom Unit Affordable	Available	KES 3,000,000.00	KES 21,680.00
-Machakos	Machakos Town	Boma Yangu Konza City Estate	Ongoing		2 Bedroom Unit Market	Available	KES 3,600,000.00	KES 31,750.00
-Machakos	Machakos Town	Boma Yangu Konza City Estate	Ongoing		3 Bedroom Unit Market	Available	KES 4,800,000.00	KES 42,320.00
-Machakos	Mavoko	Boma Yangu Mavoko Estate	Ongoing		1 Bedroom Unit Affordable	Available	KES 1,981,200.00	KES 11,300.00
-Machakos	Mavoko	Boma Yangu Mavoko Estate	Ongoing		2 Bedroom Unit Affordable	Available	KES 3,598,400.00	KES 20,500.00
-Machakos	Mavoko	Boma Yangu Mavoko Estate	Ongoing		3 Bedroom Unit Affordable	Available	KES 4,622,800.00	KES 26,330.00
-Machakos	Machakos	Boma Yangu Machakos Estate	Ongoing	220	Studio Unit Social	Available	KES 640,000.00	KES 3,900.00
-Machakos	Machakos	Boma Yangu Machakos Estate	Ongoing		Studio Unit Affordable	Available	KES 1,000,000.00	KES 7,250.00
-Machakos	Machakos	Boma Yangu Machakos Estate	Ongoing		1 Bedroom Unit Social	Available	KES 960,000.00	KES 5,350.00
-Machakos	Machakos	Boma Yangu Machakos Estate	Ongoing		2 Bedroom Unit Social	Available	KES 1,280,000.00	KES 6,800.00
-Machakos	Machakos	Boma Yangu Machakos Estate	Ongoing		1 Bedroom Unit Affordable	Available	KES 1,500,000.00	KES 10,850.00
-Machakos	Machakos	Boma Yangu Machakos Estate	Ongoing		2 Bedroom Unit Affordable	Available	KES 2,000,000.00	KES 14,450.00
-Machakos	Machakos	Boma Yangu Machakos Estate	Ongoing		3 Bedroom Unit Affordable	Available	KES 3,000,000.00	KES 21,680.00
-Machakos	Machakos	Boma Yangu Machakos Estate	Ongoing		2 Bedroom Unit Market	Available	KES 2,400,000.00	KES 21,160.00
-Machakos	Machakos	Boma Yangu Machakos Estate	Ongoing		3 Bedroom Unit Market	Available	KES 3,600,000.00	KES 31,750.00
+Machakos,	Machakos Town,	Boma Yangu Machakos Civil Servants Estate,	Completed,,		2 Bedroom Unit Market,	Sold Out,	"KES 3,960,000.00", "#"	
+Machakos,	Machakos Town,	Boma Yangu Machakos Civil Servants Estate,	Completed,,		3 Bedroom Unit Market,	Sold Out,	"KES 5,160,000.00",	"#"
+
+Machakos,	Athi River Town,	Moke Gardens Affordable Housing Development,	Ongoing,	4000,	Studio Unit,	Available,	"KES 1,500,000.00", "#"	
+Machakos,	Athi River Town,	Moke Gardens Affordable Housing Development,	Ongoing,,		1 Bedroom Unit,	Available,	"KES 2,750,000.00", "#" 	
+Machakos,	Athi River Town,	Moke Gardens Affordable Housing Development,	Ongoing,,		2 Bedroom Unit,	Available,	"KES 4,400,000.00", "#"	
+Machakos,	Athi River Town,	Moke Gardens Affordable Housing Development,	Ongoing,,		3 Bedroom Unit,	Available,	"KES 5,705,000.00", "#"	
+
+Machakos,	Machakos Town,	Boma Yangu Konza City Estate,	Ongoing,,		Studio Unit Affordable,	Available,	"KES 1,000,000.00",	"KES 7,249.00"
+Machakos,	Machakos Town,	Boma Yangu Konza City Estate,	Ongoing,,		1 Room Social,	Available,	"KES 640,000.00",	"KES 3,900.00"
+Machakos,	Machakos Town,	Boma Yangu Konza City Estate,	Ongoing,,		2 Room Social,	Available,	"KES 960,000.00",	"KES 5,350.00"
+Machakos,	Machakos Town,	Boma Yangu Konza City Estate,	Ongoing,,		3 Room Social,	Available,	"KES 1,280,000.00",	"KES 6,800.00"
+Machakos,	Machakos Town,	Boma Yangu Konza City Estate,	Ongoing,,		2 Bedroom Unit Affordable,	Available,	"KES 2,000,000.00",	"KES 14,450.00"
+Machakos,	Machakos Town,	Boma Yangu Konza City Estate,	Ongoing,,		3 Bedroom Unit Affordable,	Available,	"KES 3,000,000.00",	"KES 21,680.00"
+Machakos,	Machakos Town,	Boma Yangu Konza City Estate,	Ongoing,,		2 Bedroom Unit Market,	Available,	"KES 3,600,000.00",	"KES 31,750.00"
+Machakos,	Machakos Town,	Boma Yangu Konza City Estate,	Ongoing,,		3 Bedroom Unit Market,	Available,	"KES 4,800,000.00",	"KES 42,320.00"
+
+Machakos,	Mavoko,	Boma Yangu Mavoko Estate,	Ongoing,,		1 Bedroom Unit Affordable,	Available,	"KES 1,981,200.00",	"KES 11,300.00"
+Machakos,	Mavoko,	Boma Yangu Mavoko Estate,	Ongoing,,		2 Bedroom Unit Affordable,	Available,	"KES 3,598,400.00",	"KES 20,500.00"
+Machakos,	Mavoko,	Boma Yangu Mavoko Estate,	Ongoing,,		3 Bedroom Unit Affordable,	Available,	"KES 4,622,800.00",	"KES 26,330.00"
+
+Machakos,	Machakos,	Boma Yangu Machakos Estate,	Ongoing,	220,	Studio Unit Social,	Available,	"KES 640,000.00",	"KES 3,900.00"
+Machakos,	Machakos,	Boma Yangu Machakos Estate,	Ongoing,,		Studio Unit Affordable,	Available,	"KES 1,000,000.00",	"KES 7,250.00"
+Machakos,	Machakos,	Boma Yangu Machakos Estate,	Ongoing,,		1 Bedroom Unit Social,	Available,	"KES 960,000.00",	"KES 5,350.00"
+Machakos,	Machakos,	Boma Yangu Machakos Estate,	Ongoing,,		2 Bedroom Unit Social,	Available,	"KES 1,280,000.00",	"KES 6,800.00"
+Machakos,	Machakos,	Boma Yangu Machakos Estate,	Ongoing,,		1 Bedroom Unit Affordable,	Available,	"KES 1,500,000.00",	"KES 10,850.00"
+Machakos,	Machakos,	Boma Yangu Machakos Estate,	Ongoing,,		2 Bedroom Unit Affordable,	Available,	"KES 2,000,000.00",	"KES 14,450.00"
+Machakos,	Machakos,	Boma Yangu Machakos Estate,	Ongoing,,		3 Bedroom Unit Affordable,	Available,	"KES 3,000,000.00",	"KES 21,680.00"
+Machakos,	Machakos,	Boma Yangu Machakos Estate,	Ongoing,,		2 Bedroom Unit Market,	Available,	"KES 2,400,000.00",	"KES 21,160.00"
+Machakos,	Machakos,	Boma Yangu Machakos Estate,	Ongoing,,		3 Bedroom Unit Market,	Available,	"KES 3,600,000.00",	"KES 31,750.00"
 
 Makueni	Wote	Boma Yangu Wote Pool Estate	Ongoing		Studio Unit Affordable	Available	KES 1,000,000.00	KES 7,600.00
 Makueni	Wote	Boma Yangu Wote Pool Estate	Ongoing		1 Room Social	Available	KES 640,000.00	KES 3,800.00
